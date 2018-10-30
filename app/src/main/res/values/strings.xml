@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SplitBit</string>
+    <string name="split">Split</string>
+    <string name="check">Check</string>
+    <string name="accpt">Accept requests</string>
+    <string name="enter_usrname">Username</string>
+    <string name="enter_password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="total_amt">Total Amount</string>
+    <string name="add_usr">Username To Add</string>
+    <string name="amount_by_user">Split Amount of User</string>
+    <string name="add_usr_btn">Add User</string>
+    <string name="finalize_transaction">Close Transaction</string>
+    <string name="register">Register</string>
+</resources>
